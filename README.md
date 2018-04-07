@@ -1,3 +1,5 @@
+[The Game Here](https://hristo2612.github.io/LogX)
+
 # CodeShip  
 SoftUni - JS Fundamentals Team Project  
   
@@ -15,4 +17,4 @@ hristo2612:
 petar-staynov:  
 dantcho  
   
-**no license**  
+**no license**
